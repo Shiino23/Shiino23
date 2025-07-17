@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-29-orange" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-darksucess" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-sucess" />
+  <img src="https://img.shields.io/badge/Lives-Argentina-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-sucess" />
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
