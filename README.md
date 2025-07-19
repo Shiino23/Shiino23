@@ -41,3 +41,10 @@
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiino23&show_icons=true&theme=dark&locale=en&layout=compact" alt="Shiino23" /></p>
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shiino23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+
+  <br>
+  <br>
+</p>
+
