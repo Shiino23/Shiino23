@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-sucess" />
 </p>
 
+<p align="center">I'm a <bold>Data Analyst</bold> passionate about transforming complex data into clear, actionable insights. My goal is to uncover hidden patterns, trends, and perspectives that drive informed decision-making and create significant business impact.</p>
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <br>
