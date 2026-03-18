@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Gino </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-30-blue" />
+  <img src="https://img.shields.io/badge/Age-30-royalblue" />
   <img src="https://img.shields.io/badge/Role-Backend%20%26%20Infra%20Enthusiast-blue" />
   <img src="https://img.shields.io/badge/Education-AI%20Engineering%20Student-red" />
   <img src="https://img.shields.io/badge/Focus-DevOps%20&%20MLOps-orange" />
